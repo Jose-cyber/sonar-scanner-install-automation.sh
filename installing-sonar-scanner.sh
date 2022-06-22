@@ -7,7 +7,7 @@ fi
 
 echo "########## INSTALLING SONAR SCANNER ##########"
 printf "Downloading... "
-wget -q https://binaries.sonarsource.com/Distribution/sonar-scanner-cli/sonar-scanner-cli-4.6.2.2472-linux.zip
+wget -q https://binaries.sonarsource.com/Distribution/sonar-scanner-cli/sonar-scanner-cli-4.7.0.2747-linux.zip
 printf "Complete!\n"
 
 printf "Unpacking file... "
